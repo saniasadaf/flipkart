@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.img1 {
+    width: 65px;
+}
+.p1{
+ font-size: 15px;
+}
+.categories{
+    padding: 10px;
+}
