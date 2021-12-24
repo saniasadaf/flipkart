@@ -5,7 +5,7 @@
 }
 .App {
   width: 100%;
-  position: static;
+  /* position: static; */
 }
 .box1 {
   margin-top: -50px;
